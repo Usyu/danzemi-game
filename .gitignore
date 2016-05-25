@@ -1,0 +1,8 @@
+*.swp
+*.~lock*
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+thumbs.db
+Thumbs.db
